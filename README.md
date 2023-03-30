@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-Mini-Game
+# React Practice - Animated Login
